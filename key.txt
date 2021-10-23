@@ -1,4 +1,5 @@
 #!/bin/bash
-cat<< EOF
- A4J42052
- EOF
+
+cat << EOF
+199920044
+EOF
