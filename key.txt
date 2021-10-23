@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "A4J42052"
+cat<< EOF
+ A4J42052
+ EOF
